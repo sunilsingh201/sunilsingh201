@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi, I'm <a href="https://sunilsingh201.github.io/Portfolio/">Sunil Singh</a></h1>
 <!-- <h3 align="center">Finally !!! Got the problem to solve</h3> -->
-<p>Good to see you here, Hii I am <strong>Sunil Singh</strong>  pursuing a Bachlor's Degree in <strong>Computer Science</strong> from <strong>SIES College of Arts, Commerce and Science</strong>. As of now, I am focused on FullStack development but still, wish to explore many fields and new technology. I have a lot of things to talk about &#x1F447;</p>
+<p>👋Hello there! I'm <strong>Sunil Singh</strong>, a passionate React | Web developer with 1 year of experience. I love creating interactive and user-friendly web applications. My goal is to continuously learn and grow while building amazing digital experiences. &#x1F447;</p>
 
 
-- 🌱 I’m currently learning **Reactjs - front-end JavaScript library.**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 👨‍💻  You can also check out my portfolio at **https://sunilsingh201.github.io/Portfolio/**
 
