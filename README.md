@@ -30,9 +30,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunilsingh201&" alt="sunilsingh201" /></p>
 <hr></hr>
-<p align="center"><strong>What else I forgot..&#129300;</strong></p>
-<p align="center">ohh..sorry I forgot to ask about You...</p>
-
-<p align="center">Lets talk on Linkedin. I will love to hear about you.</p>
-<p align="center"><a align="center" href="https://sunilsingh201.github.io/Portfolio/">Linkedin</a></p>
 
