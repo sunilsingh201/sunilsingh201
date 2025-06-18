@@ -1,15 +1,14 @@
 
 <h1 align="center">Hi, I'm <a href="https://sunilsingh201.github.io/Portfolio/">Sunil Singh</a></h1>
 <!-- <h3 align="center">Finally !!! Got the problem to solve</h3> -->
-<p>👋Hello there! I'm <strong>Sunil Singh</strong>, a Computer Science graduate and a passionate React | Web developer with 1 year of experience. I love creating interactive and user-friendly web applications. My goal is to continuously learn and grow while building amazing digital experiences. &#x1F447;</p>
+<p>👋Hello I'm <strong>Sunil Singh</strong>, I'm a Full-Stack Software Developer with over 3+ years of experience developing scalable web applications using React, .NET Core, and SQL Server. I work across both frontend and backend, with hands-on experience in building RESTful APIs, integrating third-party services, and leveraging Azure cloud tools like Key Vault, Blob Storage, and SignalR.</p>
 
-
-- 🌱 I’m currently learning **MERN STACK**
+<!--- 🌱 I’m currently learning **MERN STACK**-->
 
 - 👨‍💻  You can also check out my portfolio at **https://sunilsingh201.github.io/Portfolio/**
 
 - 📫 How to reach me **suniljersey201@gmail.com**
-
+<!--
 - ⚡ Fun fact **"I think this will solve in the first go"**
 
 <h3 align="left">Connect with me, I'm Just a Click away</h3>
@@ -29,5 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunilsingh201&show_icons=true&locale=en" alt="sunilsingh201" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunilsingh201&" alt="sunilsingh201" /></p>
-<hr></hr>
+<hr></hr>-->
 
