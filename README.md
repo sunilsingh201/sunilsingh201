@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello, I'm <a href="https://sunilsingh201.github.io/Portfolio/">Sunil Singh</a></h1>
 <!-- <h3 align="center">Finally !!! Got the problem to solve</h3> -->
-<p>I'm a Full-Stack Software Developer with over 3+ years of experience developing scalable web applications using React, .NET Core, and SQL Server. I work across both frontend and backend, with hands-on experience in building RESTful APIs, integrating third-party services, and leveraging Azure cloud tools like Key Vault, Blob Storage, and SignalR.</p>
+<p>I'm a Full-Stack Software Developer with over 4+ years of experience developing scalable web applications using React, .NET Core, ASP.NET CORE MVC/WEB API and SQL Server/Oracle. I work across both frontend and backend, with hands-on experience in building RESTful APIs, integrating third-party services, and leveraging Azure cloud tools like Key Vault, Blob Storage, and Functions.</p>
 
 <!--- 🌱 I’m currently learning **MERN STACK**-->
 
